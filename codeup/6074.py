@@ -4,5 +4,3 @@ a = ord('a')
 while e >= a:
   print(chr(a), end = ' ')
   a += 1
-
-
